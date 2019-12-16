@@ -21,7 +21,7 @@ That can save us using cpu execution of the mysql retrieving data,can save resou
 We can solve huge traffic in this optimized way
 
 
-Youtube Tutorial : https://www.youtube.com/watch?v=2jefKUs8ugQ
+Youtube Tutorial : https://www.youtube.com/watch?v=B-wtBJJtVXY
 
 Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
