@@ -1,0 +1,23 @@
+Adavnced PHP - Cache in PHP,Optimize your server 
+
+In this video tutorial
+I am going to show you how caching work in php scripts.
+Actually not only in php but also in any others scripting language you can apply this technic.
+So what is caching here in this tutorial.
+Connecting with the mysql and retriving daida every time is time consuming with server responding.
+Retring daida from MYSQL uses a lot of resources of the server like cpu execution,loading into memory 
+and that costs time & resources and server gets slow.Sometime client get responde with 
+mysql connection error or can see an error page 
+when Mysql conection queue is  overflow with a lot of request at a time.
+So how can we overcome this Problem.
+
+We can cache the data in a  file without connecting to the MYSQL everytime.
+We will retrive daida from mysql and will write that daida in a file and can read that daida 
+from the file and not from mysql.
+
+That can save us using cpu execution of the mysql retiving daida,can save resouces of extra 
+loading from memory and system will be faster and respond time will be quicker.
+we can solve huge trafic in this optimized way
+
+
+  
